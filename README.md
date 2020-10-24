@@ -11,7 +11,7 @@ User can scan for more than one file in one go in a folder.
 
 #Impact
 
-Time saving
-High accuracy due to less manual intervention
+Time saving,
+High accuracy due to less manual intervention,
 Additional control checks in the function for quick validation of file extension (File type e.g. Excel, word, PPT) 
 
